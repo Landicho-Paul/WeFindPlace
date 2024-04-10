@@ -15,7 +15,7 @@ if ($conn->query($sql) === TRUE) {
     $_SESSION['mdelete'] = '<div class="alert alert-danger">
     <strong>Failed!</strong>Something went wrong , please try again</a>.
   </div>';
-    header('Location: ../dashboardcontent/inbox.php');
+    header('Location: ../dashboard/inbox.php');
 }
 
 ?>

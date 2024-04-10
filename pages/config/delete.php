@@ -18,7 +18,7 @@ $sql = "DELETE FROM $delete WHERE id=$id";
 if ($conn->query($sql) === TRUE) {
     $_SESSION['alert'] = '<div class="alert alert-danger" role="alert">
     THE CARD IS DELETED.</div>';
-    header("Location: ../dashboardcontent/ManageElem.php");
+    header("Location: ../dashboard/ManageElem.php");
 } else {
 
 }

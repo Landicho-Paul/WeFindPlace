@@ -72,7 +72,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["submit2"])) {
         }
     }
 
-    header("Location: ../dashboardcontent/ManageElem.php");
+    header("Location: ../dashboard/ManageElem.php");
 
 } else {
     // Redirect to the form if accessed directly without submitting

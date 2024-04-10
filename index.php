@@ -401,77 +401,78 @@ Feel free to customize this description based on the unique features and values 
             <div class = "row">
                 <div class = "col-md-6 col-lg-4 row g-3">
                     <h3 class = "fs-5">Top Rated</h3>
-                    <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "mainsite/images/home2.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                    <a href="pages/Seller Pages/sellerprofile.php" style="color: #37517e;"><div class = "d-flex align-items-start justify-content-start">
+                        <img src = "mainsite/images/home4.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
-                            <p class = "mb-0">Paul Firm</p>
-                            <span>$ 20.00</span>
+                            <p class = "mb-0" style="font-weight: bold;font-size: 20px;">Jeca Firm</p>
+                            <span>we find place for you</span>
                         </div>
-                    </div>
-                    <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "mainsite/images/home3.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                    </div></a>
+                    <a href="pages/Seller Pages/sellerprofile.php" style="color: #37517e;"><div class = "d-flex align-items-start justify-content-start">
+                        <img src = "mainsite/images/home4.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
-                            <p class = "mb-0">Paul Firm</p>
-                            <span>$ 20.00</span>
+                            <p class = "mb-0" style="font-weight: bold;font-size: 20px;">Jeca Firm</p>
+                            <span>we find place for you</span>
                         </div>
-                    </div>
-                    <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "mainsite/images/home5.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                    </div></a>
+                    <a href="pages/Seller Pages/sellerprofile.php" style="color: #37517e;"><div class = "d-flex align-items-start justify-content-start">
+                        <img src = "mainsite/images/home4.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
-                            <p class = "mb-0">Paul Firm</p>
-                            <span>$ 20.00</span>
+                            <p class = "mb-0" style="font-weight: bold;font-size: 20px;">Jeca Firm</p>
+                            <span>we find place for you</span>
                         </div>
-                    </div>
+                    </div></a>
                 </div>
 
                 <div class = "col-md-6 col-lg-4 row g-3">
                     <h3 class = "fs-5">Best Selling</h3>
-                    <div class = "d-flex align-items-start justify-content-start">
+                    <a href="pages/Seller Pages/sellerprofile.php" style="color: #37517e;"><div class = "d-flex align-items-start justify-content-start">
                         <img src = "mainsite/images/home4.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
-                            <p class = "mb-0">Paul Firm</p>
-                            <span>$ 20.00</span>
+                            <p class = "mb-0" style="font-weight: bold;font-size: 20px;">Jeca Firm</p>
+                            <span>we find place for you</span>
                         </div>
-                    </div>
-                    <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "mainsite/images/home2.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                    </div></a>
+                    
+                    <a href="pages/Seller Pages/sellerprofile.php" style="color: #37517e;"><div class = "d-flex align-items-start justify-content-start">
+                        <img src = "mainsite/images/home4.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
-                            <p class = "mb-0">WPaul Firm</p>
-                            <span>$ 20.00</span>
+                            <p class = "mb-0" style="font-weight: bold;font-size: 20px;">Jeca Firm</p>
+                            <span>we find place for you</span>
                         </div>
-                    </div>
-                    <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "mainsite/images/home3.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                    </div></a>
+                    <a href="pages/Seller Pages/sellerprofile.php" style="color: #37517e;"><div class = "d-flex align-items-start justify-content-start">
+                        <img src = "mainsite/images/home4.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
-                            <p class = "mb-0">Paul Firm</p>
-                            <span>$ 20.00</span>
+                            <p class = "mb-0" style="font-weight: bold;font-size: 20px;">Jeca Firm</p>
+                            <span>we find place for you</span>
                         </div>
-                    </div>
+                    </div></a>
                 </div>
 
                 <div class = "col-md-6 col-lg-4 row g-3">
                     <h3 class = "fs-5">On Sale</h3>
-                    <div class = "d-flex align-items-start justify-content-start">
+                    <a href="pages/Seller Pages/sellerprofile.php" style="color: #37517e;"><div class = "d-flex align-items-start justify-content-start">
                         <img src = "mainsite/images/home4.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
-                            <p class = "mb-0">Noe L Firm</p>
-                            <span>$ 20.00</span>
+                            <p class = "mb-0" style="font-weight: bold;font-size: 20px;">Jeca Firm</p>
+                            <span>we find place for you</span>
                         </div>
-                    </div>
-                    <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "mainsite/images/home5.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                    </div></a>
+                    <a href="pages/Seller Pages/sellerprofile.php" style="color: #37517e;"><div class = "d-flex align-items-start justify-content-start">
+                        <img src = "mainsite/images/home4.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
-                            <p class = "mb-0">Noe L Firm</p>
-                            <span>$ 20.00</span>
+                            <p class = "mb-0" style="font-weight: bold;font-size: 20px;">Jeca Firm</p>
+                            <span>we find place for you</span>
                         </div>
-                    </div>
-                    <div class = "d-flex align-items-start justify-content-start">
-                        <img src = "mainsite/images/home6.jpg" alt = "" class = "img-fluid pe-3 w-25">
+                    </div></a>
+                    <a href="pages/Seller Pages/sellerprofile.php" style="color: #37517e;"><div class = "d-flex align-items-start justify-content-start">
+                        <img src = "mainsite/images/home4.jpg" alt = "" class = "img-fluid pe-3 w-25">
                         <div>
-                            <p class = "mb-0">Noe L Firm</p>
-                            <span>$ 20.00</span>
+                            <p class = "mb-0" style="font-weight: bold;font-size: 20px;">Jeca Firm</p>
+                            <span>we find place for you</span>
                         </div>
-                    </div>
+                    </div></a>
                 </div>
             </div>
         </div>
@@ -486,15 +487,26 @@ Feel free to customize this description based on the unique features and values 
     <div class="footer-top">
       <div class="container">
         <div class="row">
+        <?php
+          $sql =  "SELECT * FROM tb_schoolprofile WHERE ToHome = 1";
+          $result = mysqli_query($conn, $sql);
+          $datas = array();
+          if (mysqli_num_rows($result) > 0) {
+            while ($row = mysqli_fetch_assoc($result)) {
+              $datas[] = $row;
+            }
+          }
 
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h3><?php echo $data['Discription']; ?></h3>
+          foreach ($datas as $data) {
+            echo '
+            <div class="col-lg-3 col-md-6 footer-contact">
+            <h3>' . $data['Discription'] . '</h3>
             <p>
               <Sto class="Rosario"></Sto><br>
-              <?php echo $data['Lokation']; ?><br>
+              ' . $data['Lokation'] . '<br>
               Philippines <br><br>
-              <strong>Phone:</strong> <?php echo $data['TelephoneNumber']; ?><br>
-              <strong>Email:</strong><?php echo $data['Email']; ?><br>
+              <strong>Phone:</strong>' . $data['MobileNumber'] . '<br>
+              <strong>Email:</strong>' . $data['Email'] . '<br>
             </p>
           </div>
 
@@ -517,8 +529,8 @@ Feel free to customize this description based on the unique features and values 
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4><?php echo $data['SchoolName']; ?></h4>
-            <p><?php echo $data['Discription']; ?></p>
+            <h4>' . $data['SchoolName'] . '</h4>
+            <p>' . $data['Discription'] . '</p>
             <div class="social-links mt-3">
               <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
               <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -527,8 +539,13 @@ Feel free to customize this description based on the unique features and values 
               <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
             </div>
           </div>
+            
+              ';
+          }
 
+          ?>
         </div>
+
       </div>
     </div>
 

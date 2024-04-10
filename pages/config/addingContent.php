@@ -23,7 +23,7 @@ $sql = "UPDATE tb_contenthomepage SET sizes = '$size', title = '$title' , captio
 if ($conn->query($sql) === TRUE) {
     $_SESSION['alert'] = '<div class="alert alert-success" role="alert">
     THE CARD '. $_FILES["image"]["name"] .' HAS BEEN UPLOADED TO HOME.</div>';
-    header("Location: ../dashboardcontent/ManageElem.php");
+    header("Location: ../dashboard/ManageElem.php");
   
 } else {
   

@@ -34,6 +34,8 @@ if (isset($_SESSION['status'])) {
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Management Dashboard</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet"
@@ -265,7 +267,6 @@ if (isset($_SESSION['status'])) {
                                         <th>#</th>
                                         <th>Sender</th>
                                         <th>Email Address</th>
-                                        <th>Date and Time</th>
                                         <th>Subject</th>
                                         <th>Message</th>
                                         <th>Actions</th>
@@ -280,7 +281,6 @@ if (isset($_SESSION['status'])) {
                         <td>' . $row['messageid'] . '</td>
                         <td>' . $row['name'] . '</td>
                         <td>' . $row['email'] . '</td>
-                        <td>' . $row['date'] . '</td>
                         <td>' . $row['subject'] . '</td>
                         <td>' . $row['message'] . '</td>
                         <td>

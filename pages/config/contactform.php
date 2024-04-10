@@ -18,14 +18,14 @@ if (isset($_POST['submit']))
    $_SESSION['send'] = '<div class="alert alert-success">
    <strong>Success!</strong> Message sended successfully</a>.
  </div>';
- header('Location: ../../index.php');
+ header('Location: ../Seller Pages/sellerprofile.php');
   }
   else 
   {
     $_SESSION['send'] = '<div class="alert alert-danger">
    <strong>Error !</strong> Please try again</a>.
  </div>';
- header('Location: ../../index.php');
+ header('Location: ../Seller Pages/sellerprofile.php');
   }
 
 }

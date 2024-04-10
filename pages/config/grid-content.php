@@ -17,7 +17,7 @@ session_start();
     if ($conn->query($sql) === TRUE) {
         $_SESSION['alert'] = '<div class="alert alert-success" role="alert">
         CONTENT SUCCESSFULLY ADDED.</div>';
-        header("Location: ../dashboardcontent/ManageElem.php");
+        header("Location: ../dashboard/ManageElem.php");
         
     } else {
       echo "Error: " . $sql . "<br>" . $conn->error;

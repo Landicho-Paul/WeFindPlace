@@ -30,7 +30,7 @@ $sql = "UPDATE tb_coverphotohomepage SET img = '$image', title = '$title' , capt
 if ($conn->query($sql) === TRUE) {
     $_SESSION['alert'] = '<div class="alert alert-success" role="alert">
     THE COVER PHOTO '. $_FILES["image"]["name"] .' HAS BEEN UPLOADED.</div>';
-    header("Location: ../dashboardcontent/ManageElem.php");
+    header("Location: ../dashboard/ManageElem.php");
   
 } else {
   

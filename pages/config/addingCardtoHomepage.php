@@ -20,7 +20,7 @@ $sql = "UPDATE tb_cardHomepage SET img = '$image', title = '$title' , ammount = 
 if ($conn->query($sql) === TRUE) {
     $_SESSION['alert'] = '<div class="alert alert-success" role="alert">
     THE FILE '. $_FILES["image"]["name"] .' HAS BEEN UPLOADED.</div>';
-    header("Location: ../dashboardcontent/ManageElem.php");
+    header("Location: ../dashboard/ManageElem.php");
   
 } else {
   
